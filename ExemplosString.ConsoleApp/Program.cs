@@ -109,6 +109,7 @@
 
             //Leitura do arquivo de municipios
             string municipios = File.ReadAllText(@"C:\Users\Alexandre Rech\Desktop\cidades.csv");
+            
 
             Console.ReadLine();
         }
